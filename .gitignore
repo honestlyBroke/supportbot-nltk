@@ -14,8 +14,9 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Logging files
-chatbot.log  # Log file for chatbot
-*.log         # Any other log files
+chatbot.log
+*.log
+
 
 # Unit test / coverage reports
 .coverage
