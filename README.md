@@ -102,7 +102,7 @@ You: exit
 - **data/**: Directory for storing training data and any additional datasets used for intent recognition.
 - **intents.json**: (Optional) A JSON file that contains predefined intents and associated training data for the chatbot.
 - **README.md**: Documentation file that provides an overview of the project, setup instructions, and usage guidelines.
-- **LICENSE**: File that specifies the licensing terms under which the project is distributed, typically including information about the MIT License in this case.
+- **LICENSE**: File that specifies the licensing terms under which the project is distributed, typically including information about the Apache 2.0 License in this case.
 - **.gitignore**: File that specifies intentionally untracked files to ignore, preventing them from being included in version control (e.g., log files, environment variables).
 
 ## Customization
